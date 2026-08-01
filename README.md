@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ________________________
-I'm a 26yo CS Engineer from Chile who is passionate about Software Development. This repo holds some of my work that showcases how I go around coding in general.
+I'm a 26yo DevOps Engineer from Chile who is passionate about Software Development and automatization. This repo holds some of my work that showcases how I go around coding in general.
 Please visit: https://lkzzo.github.io/
 
 ------------------------
